@@ -1,0 +1,21 @@
+:root {
+
+  --ghost-white: #fef9ffff;
+  --platinum: #dfe6e5ff;
+  --green-sheen: #80ab95ff;
+  --morning-blue: #8fa69aff;
+  --feldgrau: #4a5755ff;
+  --rich-black-fogra-29: #04080fff;
+  --black: #020300ff;
+
+}
+
+html {
+  background-color: var(--rich-black-fogra-29);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Helvetica, sans-serif;
+}
